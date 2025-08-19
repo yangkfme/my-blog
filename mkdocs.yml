@@ -1,0 +1,11 @@
+site_name: 德游记
+
+theme:
+  name: material
+  favicon: favicon_v1.ico
+  language: zh
+
+plugins:
+  - search
+  - awesome-pages
+
